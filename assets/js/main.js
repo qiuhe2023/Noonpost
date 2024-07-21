@@ -77,7 +77,7 @@ Table of Content
         stagePadding: 0,
         margin: 0,
         nav: true,
-        autoplay: true,
+        autoplay: false,
         center: false,
         dots: false,
         mouseDrag: true,
