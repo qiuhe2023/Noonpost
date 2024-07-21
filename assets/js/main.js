@@ -71,6 +71,7 @@ Table of Content
 
     /* -----------------------------------
        Carousel-hero
+       轮播图相关属性
     -----------------------------------*/
     $(".carousel-hero .owl-carousel").owlCarousel({
         loop: true,
