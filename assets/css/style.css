@@ -1625,11 +1625,13 @@ ul {
   top: 0;
   width: 100%;
   height: 100%;
-  /* background-color: rgba(0, 0, 0, 0.5); */
+
   /* 一层背景阴影 */
+  /* z-index: -1; */
+  /* background-color: rgba(0, 0, 0, 0.5); */
   opacity: 1;
   bottom: 0;
-  z-index: -1;
+
 }
 
 .hero-content {
